@@ -10,3 +10,8 @@
 ```
 
 **바로가기** : https://github.com/CLASSCARD-books/CLBOOKS/releases
+
+# 예상 업데이트
+
+* 12/18 중등 듣기단어
+* 12/21 3단변화 표
