@@ -8,3 +8,5 @@
 ```
 업데이트 내역 : The class(Unit 12)단어
 ```
+
+**바로가기** : https://github.com/CLASSCARD-books/CLBOOKS/releases
