@@ -9,8 +9,8 @@ https://github.com/CLASSCARD-books/CLBOOKS/blob/main/Read.md
 ```
 업데이트 내역 : 중학영어듣기 단어
 ```
-
-**바로가기** : https://github.com/CLASSCARD-books/CLBOOKS/releases
+# 링크
+**바로가기** : https://github.com/CLASSCARD-books/CLBOOKS/releases **<이거 클릭**
 
 # 예상 업데이트
 
